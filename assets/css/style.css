@@ -1,0 +1,15 @@
+section.teem-area {
+    text-align: center;
+}
+.container{
+	border-bottom: 1px solid gray;
+}
+
+.card{
+	border:none;
+}
+.img_circle{
+	border-radius: 50%
+} 
+.section-padding{
+	padding:50px 0;}
